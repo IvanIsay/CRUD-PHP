@@ -1,0 +1,21 @@
+
+body{
+  background-image: url(../img/w3.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-color: black;
+}
+
+.contenedorForm{
+  position:absolute;
+  left:30vw;
+  right:30vw;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  background-color: rgba(61, 65, 206, 0.3);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgba(255, 2, 19, 0.4);
+}
